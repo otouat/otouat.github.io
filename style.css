@@ -5,8 +5,19 @@
     font-style: normal;
 
 }
-p
+h1
+{
+    font-family: 'ambleregular';
+    font-size: 3em;
+}
+h2
+{
+    font-family: 'ambleregular';
+    font-size: 2em;
+}
+p, li
 {
     font-family: 'ambleregular';
     font-size: 1.3em;
+    text-align: justify;
 }
