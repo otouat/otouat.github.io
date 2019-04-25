@@ -5,6 +5,15 @@
     font-style: normal;
 
 }
+body
+{
+    background-color: rgb(47, 117, 79);
+}
+title
+{
+    font-family: 'ambleregular';
+    background-color: rgb(47, 117, 79);
+}
 h1
 {
     font-family: 'ambleregular';
