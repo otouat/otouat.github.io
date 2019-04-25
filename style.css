@@ -7,7 +7,7 @@
 }
 body
 {
-    background-color: rgb(47, 117, 79);
+    background: url(proxy.duckduckgo.com.jfif) ;
 }
 title
 {
@@ -16,11 +16,15 @@ title
 }
 h1
 {
+    background-color: rgba(18, 49, 134, 0.664);
+    color: white;
     font-family: 'ambleregular';
     font-size: 3em;
 }
 h2
 {
+    background-color: rgba(18, 49, 134, 0.664);
+    color: white;
     font-family: 'ambleregular';
     font-size: 2em;
 }
