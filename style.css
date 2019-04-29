@@ -8,6 +8,7 @@
 body
 {
     background: url(proxy.duckduckgo.com.jfif) ;
+    background-size: cover;
 }
 title
 {
